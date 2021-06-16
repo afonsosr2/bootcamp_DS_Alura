@@ -1,0 +1,54 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Bahia
+Casos Prováveis por Microrregião IBGE de notific e Mês notificação
+Período:2018
+"Microrregião IBGE de notific";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"29001 Barreiras";7;5;2;9;55;62;24;14;7;8;6;5;204
+"29002 Cotegipe";12;16;17;28;44;22;8;-;-;-;3;2;152
+"29003 S Maria Vitória";13;14;131;462;362;147;22;21;5;2;2;1;1182
+"29004 Juazeiro";5;1;11;84;100;95;80;141;108;102;53;19;799
+"29005 Paulo Afonso";1;2;-;2;-;-;1;1;1;-;-;-;8
+"29006 Barra";2;13;64;88;173;44;23;5;7;1;2;-;422
+"29007 B Jesus da Lapa";140;212;333;408;401;59;17;4;3;-;-;3;1580
+"29008 Senhor Bonfim";-;-;2;-;1;1;2;3;2;1;2;2;16
+"29009 Irecê";4;1;6;44;13;16;3;8;5;22;29;4;155
+"29010 Jacobina";1;1;2;8;7;4;3;7;-;1;2;2;38
+"29011 Itaberaba";11;-;7;16;1;-;3;1;-;-;6;2;47
+"29012 F Santana";32;19;22;12;16;24;57;99;50;57;111;232;731
+"29013 Jeremoabo";-;1;1;-;-;-;2;-;-;1;1;-;6
+"29014 Euclides Cunha";-;3;3;2;2;1;-;1;1;1;14;-;28
+"29015 Ribeira Pombal";29;34;10;3;17;5;1;6;4;1;-;-;110
+"29016 Serrinha";2;6;24;30;25;5;3;-;1;1;3;3;103
+"29017 Alagoinhas";3;-;-;-;1;1;1;2;1;2;5;-;16
+"29019 Catu";-;-;1;-;1;1;2;-;-;-;-;1;6
+"29020 S Antônio Jesus";2;1;-;1;-;1;2;-;4;5;7;23;46
+"29021 Salvador";193;105;131;117;110;95;110;72;68;111;115;122;1349
+"29022 Boquira";3;1;5;42;95;65;23;28;4;2;17;40;325
+"29023 Seabra";1;2;2;21;4;9;11;4;-;-;3;4;61
+"29024 Jequié";3;2;2;2;4;-;4;3;1;7;3;5;36
+"29025 Livr.Brumado";-;-;51;74;31;24;13;26;33;73;152;56;533
+"29026 Guanambi";1;31;61;73;55;3;18;1;1;11;16;38;309
+"29027 Brumado";1;-;3;17;75;5;3;-;-;2;-;-;106
+"29028 Vit.Conquista";14;14;18;13;5;5;1;3;2;3;3;3;84
+"29029 Itapetinga";-;1;-;-;-;-;-;-;-;1;-;-;2
+"29030 Valença";-;7;5;5;4;2;3;1;-;1;1;3;32
+"29031 Ilhéus-Itabuna";53;91;81;69;66;129;39;21;20;12;30;23;634
+"29032 Porto Seguro";67;25;64;75;119;93;53;36;15;7;7;9;570
+"Total";600;608;1059;1705;1787;918;532;508;343;435;593;602;9690
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Incluídas notificações de casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ Para o Período de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 11/01/2021, sujeitos a revisão.
+ *Data da publicação dos dados 03/2021.
+ 
